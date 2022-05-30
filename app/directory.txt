@@ -1,0 +1,88 @@
+cose
+    elettronica
+        rack
+            pannello
+                cieco
+                ventilato
+                eth-patch
+                xlr-patch
+                brush
+                passacavi
+                shelf
+            multipresa
+            quadro-su-barra
+            barra 19"
+            barra din, d
+            canala
+        video
+            device
+            wire
+                terminated
+                    hdmi
+                    hdmi-eth, e
+                    hdmi-dp, d
+            connector
+                panel
+                floating
+        control
+            device
+            wire
+                terminated
+                    cat5, 5
+                    cat6, 6
+                    cat6 F/SFTP, s
+                    usb A, a
+                    usb3 AB, b
+                    usb3 C, c
+            connector
+                panel
+                floating
+        audio
+            device
+            wire
+                terminated
+            connector
+                panel
+                floating
+        power
+            device
+            wire
+                terminated
+            connector
+                panel
+                floating
+        tool
+        consumo
+            fascette
+
+    meccanica
+        viti
+    tappezzeria
+        stoffa
+posti
+    laboratorio, 0
+    magazzino, 1
+    tappezzeria, 2
+    e3, 3
+    e4, 4
+    e5, 5
+    e6, 6
+    e7, 7
+    e8, 8
+persone
+    gianni
+    alexander
+    enrico
+    sara
+    marco
+    massimo daniele
+    piero
+    ermanno
+commesse
+    ferrero
+cantieri
+scenari
+    arrivo
+    consegna
+    costruzione
+    inventario
